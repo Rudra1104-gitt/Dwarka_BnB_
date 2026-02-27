@@ -1,0 +1,5 @@
+{
+  "name": "DwarkaBnB",
+  "description": "Trusted spiritual stays and homestays in the holy city of Dwarka. Find verified hotels, guest houses, and local experiences.",
+  "requestFramePermissions": ["geolocation"]
+}
